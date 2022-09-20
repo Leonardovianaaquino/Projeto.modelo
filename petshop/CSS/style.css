@@ -1,0 +1,75 @@
+.mainav{
+    font-size: 16px;
+}
+
+.mainav1{
+    background-color: gray;
+    color: yellow;
+    text-align: center;
+    width: 65%;
+    height: 10%;
+    margin: left;
+    float: left;
+    
+    
+    
+}
+.mainav2{
+    background-color: yellow;
+    color: black;
+    float: right;
+    width: 35%;
+    height: 10%;
+    text-decoration: none;
+   
+    
+}
+.mainav2 li{
+    display: inline;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 5%;
+}
+.mainav1 p{
+    font-size: 16px;
+}
+.Content h2{
+    text-align: center;
+
+}
+.Content{
+    width: 59%;
+    height: 60%;
+    text-align: left;
+    padding: 3%;
+    background-color: beige;
+    float: left;
+}
+.Container{
+    background: white;
+    
+    
+
+}
+.Mainleft{
+    float: right;
+    width: 35%;
+    text-align: center;
+    background-color:white;  
+    color: black;
+    
+}
+.footer{
+    clear: both;
+    font-size: 15px;
+    color: white;
+    background-color:gray;
+    text-align: center;
+}
+
+
+
+
+
+
+
